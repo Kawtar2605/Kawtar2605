@@ -37,19 +37,71 @@ Méthodologie
 
 ---
 
-## Projets
-
-AI Website Generator  
-Agent IA capable de générer dynamiquement la structure d’un site web interactif à partir d’un brief utilisateur.
+## Projects
 
 AI Automation Agent for SMEs  
-Agent IA permettant d’automatiser certaines tâches opérationnelles comme la gestion d’emails et l’orchestration de workflows.
+https://github.com/Kawtar2605/ai-email-agent
+
+AI Website Generator  
+https://github.com/Kawtar2605/ai-website-studio
 
 Digital Transformation Playbook  
-Framework stratégique basé sur plusieurs environnements réels pour structurer une trajectoire de transformation digitale et d’automatisation.
+https://github.com/Kawtar2605/Digital-Transformation-Playbook-for-SME
 
 ---
+
+## Architecture – AI Automation Agent for SMEs
+
+Example of architecture used for an AI automation workflow.
+
+User Request  
+↓  
+Trigger (Webhook / Email / Form)  
+↓  
+Workflow orchestration (n8n)  
+↓  
+Intent detection using OpenAI API  
+↓  
+JSON parsing & decision logic  
+↓  
+Action execution
+
+• automatic email response  
+• notification or workflow trigger  
+• data update in external tools  
+
+↓  
+External integrations
+
+• Gmail API  
+• Google Sheets API  
+• Twilio API  
+
+---
+
+## Technologies
+
+LLM  
+- OpenAI API  
+
+Automation  
+- n8n  
+
+Languages  
+- JavaScript  
+- TypeScript  
+
+Data  
+- JSON manipulation  
+
+Tools  
+- Git  
+- GitHub  
+- VS Code
 
 ## Objectif
 
 Développer une expertise en **automatisation IA et transformation digitale** afin d’accompagner les organisations dans l’optimisation de leurs processus et l’intégration de systèmes intelligents.
+
+
+
