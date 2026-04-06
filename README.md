@@ -26,7 +26,7 @@ Automatisation & IA
 Stack technique  
 - JavaScript / TypeScript
 - Manipulation JSON
-- Git & GitHub
+- GitHub
 - VS Code
 
 Méthodologie  
