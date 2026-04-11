@@ -1,6 +1,7 @@
 # Bonjour, je suis Kawtar Maarof 😊
 
-Consultante IA & Automatisation  
+Consultante IA & Automatisation spécialisée dans l’identification de cas d’usage, la structuration de workflows automatisés et l’intégration d’agents IA pour améliorer l’efficacité opérationnelle des organisations.
+
 Agents IA • Workflows automatisés • Intégration d’API
 
 Je m'intéresse à la manière dont les organisations peuvent améliorer leur efficacité grâce à l’intelligence artificielle et à l’automatisation des processus.
